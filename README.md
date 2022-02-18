@@ -1,10 +1,12 @@
 # Case-Study_CertiK_Evan-Sadasivan
 This is a case study on the history, performance, and predicted future of the blockchain audit company CertiK
-# TITLE
+![](C:\Users\sadasivan evan\Documents\CertiK Case Study.jpg)
+
+# CertiK CASE Study
 
 ## Overview and Origin
 
-* Name of company 
+* Name of company
 Certik
 
 * When was the company incorporated?
