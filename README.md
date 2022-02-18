@@ -1,7 +1,7 @@
 # Case-Study_CertiK_Evan-Sadasivan
 This is a case study on the history, performance, and predicted future of the blockchain audit company CertiK
 
-![Certik picture](certik case study.png)
+![Certik picture](https://www.altcoinbuzz.io/wp-content/uploads/2021/12/Certik.jpg)
 
 # CertiK CASE Study
 
