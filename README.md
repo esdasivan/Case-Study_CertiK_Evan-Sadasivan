@@ -54,7 +54,7 @@ This is a case study on the history, performance, and predicted future of the bl
 
 
 
-Sources: 
+## Sources: 
 
 Company incorporation date: https://www.linkedin.com/company/certik/about/
 
